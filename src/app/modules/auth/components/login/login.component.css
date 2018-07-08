@@ -1,0 +1,18 @@
+.form-group{
+    width: 100%;
+}
+.mat-button{
+    background: #5c4ac7;
+    width: 100%;
+    color: #fff;
+}
+mat-card{    
+    margin-top:25%;
+}
+.example-header-image{
+    background-color: #5c4ac7
+}
+.example-header-image mat-icon{
+    margin: 7px 0 0 7px;
+    color: white;
+}
